@@ -1,2 +1,2 @@
 # Data-Science-Project-1
-Disease prediction
+This project is about Disease prediction.
